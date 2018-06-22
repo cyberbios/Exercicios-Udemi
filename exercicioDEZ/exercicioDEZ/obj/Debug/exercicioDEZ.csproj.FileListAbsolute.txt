@@ -1,0 +1,7 @@
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioDEZ\exercicioDEZ\bin\Debug\exercicioDEZ.exe.config
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioDEZ\exercicioDEZ\bin\Debug\exercicioDEZ.exe
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioDEZ\exercicioDEZ\bin\Debug\exercicioDEZ.pdb
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioDEZ\exercicioDEZ\obj\Debug\exercicioDEZ.csprojResolveAssemblyReference.cache
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioDEZ\exercicioDEZ\obj\Debug\exercicioDEZ.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioDEZ\exercicioDEZ\obj\Debug\exercicioDEZ.exe
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioDEZ\exercicioDEZ\obj\Debug\exercicioDEZ.pdb

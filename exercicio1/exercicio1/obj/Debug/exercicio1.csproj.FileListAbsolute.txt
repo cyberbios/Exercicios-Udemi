@@ -1,0 +1,7 @@
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicio1\exercicio1\bin\Debug\exercicio1.exe.config
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicio1\exercicio1\bin\Debug\exercicio1.exe
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicio1\exercicio1\bin\Debug\exercicio1.pdb
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicio1\exercicio1\obj\Debug\exercicio1.csprojResolveAssemblyReference.cache
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicio1\exercicio1\obj\Debug\exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicio1\exercicio1\obj\Debug\exercicio1.exe
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicio1\exercicio1\obj\Debug\exercicio1.pdb

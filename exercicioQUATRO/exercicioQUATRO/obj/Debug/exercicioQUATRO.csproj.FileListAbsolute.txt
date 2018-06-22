@@ -1,0 +1,7 @@
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioQUATRO\exercicioQUATRO\bin\Debug\exercicioQUATRO.exe.config
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioQUATRO\exercicioQUATRO\bin\Debug\exercicioQUATRO.exe
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioQUATRO\exercicioQUATRO\bin\Debug\exercicioQUATRO.pdb
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioQUATRO\exercicioQUATRO\obj\Debug\exercicioQUATRO.csprojResolveAssemblyReference.cache
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioQUATRO\exercicioQUATRO\obj\Debug\exercicioQUATRO.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioQUATRO\exercicioQUATRO\obj\Debug\exercicioQUATRO.exe
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioQUATRO\exercicioQUATRO\obj\Debug\exercicioQUATRO.pdb

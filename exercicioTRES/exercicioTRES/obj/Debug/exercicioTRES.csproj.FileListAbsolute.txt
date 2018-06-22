@@ -1,0 +1,7 @@
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioTRES\exercicioTRES\bin\Debug\exercicioTRES.exe.config
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioTRES\exercicioTRES\bin\Debug\exercicioTRES.exe
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioTRES\exercicioTRES\bin\Debug\exercicioTRES.pdb
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioTRES\exercicioTRES\obj\Debug\exercicioTRES.csprojResolveAssemblyReference.cache
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioTRES\exercicioTRES\obj\Debug\exercicioTRES.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioTRES\exercicioTRES\obj\Debug\exercicioTRES.exe
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioTRES\exercicioTRES\obj\Debug\exercicioTRES.pdb

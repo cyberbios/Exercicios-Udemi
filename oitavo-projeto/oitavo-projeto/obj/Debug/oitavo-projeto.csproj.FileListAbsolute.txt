@@ -1,0 +1,7 @@
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\oitavo-projeto\oitavo-projeto\bin\Debug\oitavo-projeto.exe.config
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\oitavo-projeto\oitavo-projeto\bin\Debug\oitavo-projeto.exe
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\oitavo-projeto\oitavo-projeto\bin\Debug\oitavo-projeto.pdb
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\oitavo-projeto\oitavo-projeto\obj\Debug\oitavo-projeto.csprojResolveAssemblyReference.cache
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\oitavo-projeto\oitavo-projeto\obj\Debug\oitavo-projeto.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\oitavo-projeto\oitavo-projeto\obj\Debug\oitavo-projeto.exe
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\oitavo-projeto\oitavo-projeto\obj\Debug\oitavo-projeto.pdb

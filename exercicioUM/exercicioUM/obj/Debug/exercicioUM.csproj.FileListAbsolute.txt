@@ -1,0 +1,7 @@
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\exercicioUM\exercicioUM\bin\Debug\exercicioUM.exe.config
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\exercicioUM\exercicioUM\bin\Debug\exercicioUM.exe
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\exercicioUM\exercicioUM\bin\Debug\exercicioUM.pdb
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\exercicioUM\exercicioUM\obj\Debug\exercicioUM.csprojResolveAssemblyReference.cache
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\exercicioUM\exercicioUM\obj\Debug\exercicioUM.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\exercicioUM\exercicioUM\obj\Debug\exercicioUM.exe
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\exercicioUM\exercicioUM\obj\Debug\exercicioUM.pdb

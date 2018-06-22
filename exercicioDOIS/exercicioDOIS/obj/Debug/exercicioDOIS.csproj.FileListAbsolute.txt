@@ -1,0 +1,7 @@
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioDOIS\exercicioDOIS\bin\Debug\exercicioDOIS.exe.config
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioDOIS\exercicioDOIS\bin\Debug\exercicioDOIS.exe
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioDOIS\exercicioDOIS\bin\Debug\exercicioDOIS.pdb
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioDOIS\exercicioDOIS\obj\Debug\exercicioDOIS.csprojResolveAssemblyReference.cache
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioDOIS\exercicioDOIS\obj\Debug\exercicioDOIS.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioDOIS\exercicioDOIS\obj\Debug\exercicioDOIS.exe
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioDOIS\exercicioDOIS\obj\Debug\exercicioDOIS.pdb

@@ -1,0 +1,7 @@
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\segundo-projeto\segundo-projeto\obj\Debug\segundo-projeto.csprojResolveAssemblyReference.cache
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\segundo-projeto\segundo-projeto\obj\Debug\segundo-projeto.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\segundo-projeto\segundo-projeto\bin\Debug\segundo-projeto.exe.config
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\segundo-projeto\segundo-projeto\bin\Debug\segundo-projeto.exe
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\segundo-projeto\segundo-projeto\bin\Debug\segundo-projeto.pdb
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\segundo-projeto\segundo-projeto\obj\Debug\segundo-projeto.exe
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\segundo-projeto\segundo-projeto\obj\Debug\segundo-projeto.pdb

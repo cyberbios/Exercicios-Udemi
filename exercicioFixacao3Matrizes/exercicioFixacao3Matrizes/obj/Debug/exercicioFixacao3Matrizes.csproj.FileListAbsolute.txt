@@ -1,0 +1,6 @@
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioFixacao3Matrizes\exercicioFixacao3Matrizes\bin\Debug\exercicioFixacao3Matrizes.exe.config
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioFixacao3Matrizes\exercicioFixacao3Matrizes\bin\Debug\exercicioFixacao3Matrizes.exe
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioFixacao3Matrizes\exercicioFixacao3Matrizes\bin\Debug\exercicioFixacao3Matrizes.pdb
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioFixacao3Matrizes\exercicioFixacao3Matrizes\obj\Debug\exercicioFixacao3Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioFixacao3Matrizes\exercicioFixacao3Matrizes\obj\Debug\exercicioFixacao3Matrizes.exe
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioFixacao3Matrizes\exercicioFixacao3Matrizes\obj\Debug\exercicioFixacao3Matrizes.pdb

@@ -1,0 +1,7 @@
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioCINCO\exercicioCINCO\bin\Debug\exercicioCINCO.exe.config
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioCINCO\exercicioCINCO\bin\Debug\exercicioCINCO.exe
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioCINCO\exercicioCINCO\bin\Debug\exercicioCINCO.pdb
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioCINCO\exercicioCINCO\obj\Debug\exercicioCINCO.csprojResolveAssemblyReference.cache
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioCINCO\exercicioCINCO\obj\Debug\exercicioCINCO.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioCINCO\exercicioCINCO\obj\Debug\exercicioCINCO.exe
+C:\Users\alexandre.isabella\Documents\WebDeveloper\TreinoTaverna\TISelvagem\C#udemi\exercicioCINCO\exercicioCINCO\obj\Debug\exercicioCINCO.pdb
